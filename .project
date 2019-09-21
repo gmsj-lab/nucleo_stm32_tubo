@@ -29,7 +29,7 @@
 		<link>
 			<name>code/boot_bsp</name>
 			<type>2</type>
-			<locationURI>PARENT-1-PROJECT_LOC/nucleo_stm32_boot/code/boot_bsp</locationURI>
+			<locationURI>PARENT-1-PROJECT_LOC/stm32F7_boot/code/boot_bsp</locationURI>
 		</link>
 		<link>
 			<name>code/target_tracker</name>

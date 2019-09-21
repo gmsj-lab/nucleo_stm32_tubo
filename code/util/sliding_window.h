@@ -2,7 +2,7 @@
  * sliding_window.h
  *
  *  Created on: 8 sept. 2019
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #ifndef CODE_UTIL_SLIDING_WINDOW_H_

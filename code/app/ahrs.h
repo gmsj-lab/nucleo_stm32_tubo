@@ -2,7 +2,7 @@
  * ahrs.h
  *
  *  Created on: 8 sept. 2019
- *      Author: gilles
+ *      Author: gmsj
  *
  *  Implementation of Madgwick's IMU and AHRS algorithms.
  *  See: http://www.x-io.co.uk/node/8#open_source_ahrs_and_imu_algorithms

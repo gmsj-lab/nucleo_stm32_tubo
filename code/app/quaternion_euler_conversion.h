@@ -2,7 +2,7 @@
  * quaternion_euler_conversion.h
  *
  *  Created on: 8 sept. 2019
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #ifndef CODE_APP_QUATERNION_EULER_CONVERSION_H_

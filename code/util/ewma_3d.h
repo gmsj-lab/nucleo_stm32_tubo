@@ -2,7 +2,7 @@
  * ewma_3d.h
  *
  *  Created on: 8 sept. 2019
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #ifndef CODE_UTIL_EWMA_3D_H_

@@ -2,7 +2,7 @@
  * gpio_output.cpp
  *
  *  Created on: 8 sept. 2019
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #include "gpio_output.h"

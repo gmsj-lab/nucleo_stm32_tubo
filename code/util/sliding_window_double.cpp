@@ -2,11 +2,10 @@
  * sliding_window_double.cpp
  *
  *  Created on: 8 sept. 2019
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #include <sliding_window_double.h>
-
 #include "utils.h"
 
 SlidingWindowDouble::SlidingWindowDouble ( uint8_t size ) : window ( size ) {

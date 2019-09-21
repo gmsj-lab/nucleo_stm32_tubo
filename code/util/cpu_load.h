@@ -2,7 +2,7 @@
  * cpu_load.h
  *
  *  Created on: 8 sept. 2019
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #ifndef CODE_UTIL_CPU_LOAD_H_

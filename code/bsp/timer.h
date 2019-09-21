@@ -2,7 +2,7 @@
  * timer.h
  *
  *  Created on: 8 sept. 2019
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #ifndef CODE_BSP_TIMER_H_

@@ -2,7 +2,7 @@
  * eeprom_store.h
  *
  *  Created on: 8 sept. 2019
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #ifndef CODE_APP_EEPROM_STORE_H_

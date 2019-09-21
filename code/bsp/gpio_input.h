@@ -2,7 +2,7 @@
  * gpio_input.h
  *
  *  Created on: 8 sept. 2019
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #ifndef CODE_BSP_GPIO_INPUT_H_
